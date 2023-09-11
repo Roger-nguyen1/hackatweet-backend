@@ -16,7 +16,7 @@ Enfin, la page des hashtags apparaît lorsque l'utilisateur clique sur un hashta
 
 ## 🎬 Getting Started : Dependencies and Other
 
-!! Most of my projects have a separate backend and frontend, you will find them here on my github.
+La plupart de mes projets ont un frontend et backend séparés, vous les trouverez sur mon github.
 
 ```
 
