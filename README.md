@@ -1,6 +1,8 @@
 # 📚 Hackatweet
 
-Salut, je suis Roger. Actuellement, je développe mes compétences en développement web, avec une spécialisation dans le développement frontend en React. J'ai pris beaucoup de plaisir à coder tous ces projets ! N'hésitez pas à me poser des questions et à jeter un œil à mes autres réalisations ;)
+Bonjour,
+
+Je me présente, je suis Roger. Actuellement, je suis en train d’approfondir mes compétences en développement web, avec une concentration particulière sur le développement frontend en utilisant React. J’ai trouvé un immense plaisir à programmer tous ces projets. Je vous invite à me poser des questions et à explorer mes autres réalisations.
 
 ## ✍️ Description
 
